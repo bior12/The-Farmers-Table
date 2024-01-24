@@ -1,6 +1,14 @@
 # Message Marketing
+
+table of contents:
+
+- [month 1](#month-1)
+  - [campaign 1 (reservation promotional offer 1)](#campaign-1-reservation-promotional-offer-1)
+  - [campaign 2 (promotional offer 1)](#campaign-2-promotional-offer-1)
+
 ## Month 1
-### Campaign 1 (reservation promotional offer 1):
+
+### Campaign 1 (reservation promotional offer 1)
 
 Notes:
 Targeting older customers
@@ -39,7 +47,7 @@ Enjoy [special offer] until the end of the month
 📲 Text RESERVE to book your table now!
 ```
 
-## Campaign 2 (promotional offer 1):
+## Campaign 2 (promotional offer 1)
 
 Opener:
 

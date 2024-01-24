@@ -1,4 +1,6 @@
-Restaurants often use SMS marketing campaigns to attract and retain customers. Here are some deals and promotions that a restaurant might offer as part of an SMS marketing campaign:
+# Offers
+
+## Restaurants often use SMS marketing campaigns to attract and retain customers. Here are some deals and promotions that a restaurant might offer as part of an SMS marketing campaign
 
 1. Discounts: Offer a percentage discount on the total bill or specific items. For example, "Get 15% off your next meal with us when you show this SMS."
 
