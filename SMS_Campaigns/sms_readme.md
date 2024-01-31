@@ -8,7 +8,48 @@ table of contents:
 
 ## Month 1
 
-### Campaign 1 (reservation promotional offer 1)
+### Campaign 1 (new hours for brunch)
+
+notes:
+
+- similar to campaign 2, but highlighing new hours for brunch
+
+Opener:
+
+ 1. "Randy here! 🍽️"
+ 1. "Exciting news! 🍽️"
+ 1. "New hours alert!"
+ 1. "Exciting news!"
+
+ body 1:
+
+ 1. "Join us at Farmer's Table in Newport for new Sunday brunch! 🌞"
+
+ body 2:
+
+1. "📅 Hours: Wed-Sat: 11:30 AM - 8:00 PM, Sun: [Sunday hours]"
+1. "Visit Us: Wed-Sat: 11:30 AM - 8:00 PM, Sunday: [Sunday hours]"
+
+body 3:
+
+1. "Enjoy [special offer] until the end of the month"
+1. "🎉 Join us for [ special offer ] until the end of the month"
+1. " Join us for [ special offer ] until the end of the month"
+Signoff:
+1. "📲 Text RESERVE to book your table now!"
+1. "🍽️ text RESERVE to book your table now!"
+1. "text RESERVE to book your table now!
+
+Message:
+
+```text
+Randy here! 🍽️
+Join us at Farmer's Table in Newport for our new Sunday Brunch hours! 🌞
+📅 Wed-Sat: 11:30 AM - 8 PM, Sun: [Sunday hours]
+Text RESERVE to book your table now!
+```
+
+### Campaign 2 (reservation promotional offer 1)
 
 Notes:
 Targeting older customers
@@ -37,8 +78,7 @@ Signoff:
 1. "🍽️ text RESERVE to book your table now!"
 1. "text RESERVE to book your table now!"
 
-FIRST Message:
-
+Message:
 ```text
 Exciting news!
 🍽️ Join us at The Farmer's Table in Newport: 
