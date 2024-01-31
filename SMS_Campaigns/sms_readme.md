@@ -3,8 +3,9 @@
 table of contents:
 
 - [month 1](#month-1)
-  - [campaign 1 (reservation promotional offer 1)](#campaign-1-reservation-promotional-offer-1)
-  - [campaign 2 (promotional offer 1)](#campaign-2-promotional-offer-1)
+  - [campaign 1 (new hours for brunch)](#campaign-1-new-hours-for-brunch)
+  - [campaign 2 (reservation promotional offer 1)](#campaign-2-reservation-promotional-offer-1)
+  - [campaign 3 (promotional offer 1)](#campaign-2-promotional-offer-1)
 
 ## Month 1
 
