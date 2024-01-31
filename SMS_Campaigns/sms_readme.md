@@ -15,33 +15,35 @@ notes:
 
 - similar to campaign 2, but highlighing new hours for brunch
 
-Opener:
+Opener
 
  1. "Randy here! 🍽️"
  1. "Exciting news! 🍽️"
  1. "New hours alert!"
  1. "Exciting news!"
 
- body 1:
+ body 1
 
  1. "Join us at Farmer's Table in Newport for new Sunday brunch! 🌞"
 
- body 2:
+body 2
 
 1. "📅 Hours: Wed-Sat: 11:30 AM - 8:00 PM, Sun: [Sunday hours]"
 1. "Visit Us: Wed-Sat: 11:30 AM - 8:00 PM, Sunday: [Sunday hours]"
 
-body 3:
+body 3
 
 1. "Enjoy [special offer] until the end of the month"
 1. "🎉 Join us for [ special offer ] until the end of the month"
 1. " Join us for [ special offer ] until the end of the month"
+
 Signoff:
+
 1. "📲 Text RESERVE to book your table now!"
 1. "🍽️ text RESERVE to book your table now!"
 1. "text RESERVE to book your table now!
 
-Message:
+#### Campaign 1 Message
 
 ```text
 Randy here! 🍽️
@@ -74,12 +76,15 @@ Offer:
 1. "Enjoy [special offer] until the end of the month"
 1. "🎉 Join us for [ special offer ] until the end of the month"
 1. " Join us for [ special offer ] until the end of the month"
+
 Signoff:
+
 1. "📲 Text RESERVE to book your table now!"
 1. "🍽️ text RESERVE to book your table now!"
 1. "text RESERVE to book your table now!"
 
-Message:
+#### Campaign 2 Message
+
 ```text
 Exciting news!
 🍽️ Join us at The Farmer's Table in Newport: 
@@ -111,6 +116,7 @@ Offer:
 1. ", and take advantage of our fantastic [promotional offer]."
 1. ", and take advantage of our fantastic [promotional offer] every Sunday in February"
 1. "for [promotional offer]"
+
 Signoff:
 1. " See you there!"
 1. "📲 Text RESERVE to book your table now!"
