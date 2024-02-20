@@ -62,6 +62,7 @@ Flow: 1st text -> contact response -> send reservation link -> note on reservati
 
 Opener:
 
+ 1. ""
  1. "Exciting news! "
  1. "New hours alert!"
 
@@ -73,12 +74,14 @@ Body:
 
 Offer:
 
+1. "Enjoy [special offer] reserve with the link below!"
 1. "Enjoy [special offer] until the end of the month"
 1. "🎉 Join us for [ special offer ] until the end of the month"
 1. " Join us for [ special offer ] until the end of the month"
 
 Signoff:
 
+1. "📲 [link]"
 1. "📲 Text RESERVE to book your table now!"
 1. "🍽️ text RESERVE to book your table now!"
 1. "text RESERVE to book your table now!"
@@ -86,11 +89,10 @@ Signoff:
 #### Campaign 2 Message
 
 ```text
-Exciting news!
 🍽️ Join us at The Farmer's Table in Newport: 
 📅 Wed-Sun, 11:30 AM - 8:00 PM (7:00 PM on Sun)
-Enjoy [special offer] until the end of the month
-📲 Text RESERVE to book your table now!
+Enjoy [special offer] reserve with the link below!
+📲 [link]
 ```
 
 ## Campaign 2 (promotional offer 1)
