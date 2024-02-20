@@ -68,13 +68,14 @@ Opener:
 
 Body:
 
+1. "🍽️ Join us at The Farmer's Table in Newport:"
 1. "🍽️ Join us at The Farmer's Table in Newport: 📅 Wed-Sun, 11:30 AM - 8:00 PM (7:00 PM on Sun)"
 1. "The Farmer’s Table is open from Wednesday to Sunday, with hours of operation from 11:30 AM to 8:00 PM (7:00 PM on Sundays), and it is located in Newport"
 1. "The farmer’s table is now open Wed-Sun (11:30-8, 7 on Sun) in Newport!"
 
 Offer:
 
-1. "Enjoy [special offer] reserve with the link below!"
+1. "Enjoy [special offer] when you reserve with the link below!"
 1. "Enjoy [special offer] until the end of the month"
 1. "🎉 Join us for [ special offer ] until the end of the month"
 1. " Join us for [ special offer ] until the end of the month"
@@ -90,8 +91,7 @@ Signoff:
 
 ```text
 🍽️ Join us at The Farmer's Table in Newport: 
-📅 Wed-Sun, 11:30 AM - 8:00 PM (7:00 PM on Sun)
-Enjoy [special offer] reserve with the link below!
+Enjoy [special offer] when you reserve with the link below!
 📲 [link]
 ```
 
