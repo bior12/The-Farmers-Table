@@ -68,31 +68,44 @@ Opener:
 
 Body:
 
-1. "🍽️ Join us at The Farmer's Table in Newport:"
+1. "🍽️ The Farmers Table Cafe has a surprise for you!"
 1. "🍽️ Join us at The Farmer's Table in Newport: 📅 Wed-Sun, 11:30 AM - 8:00 PM (7:00 PM on Sun)"
 1. "The Farmer’s Table is open from Wednesday to Sunday, with hours of operation from 11:30 AM to 8:00 PM (7:00 PM on Sundays), and it is located in Newport"
 1. "The farmer’s table is now open Wed-Sun (11:30-8, 7 on Sun) in Newport!"
 
 Offer:
 
+1. "Enjoy 10% off your next meal!"
 1. "Enjoy [special offer] when you reserve with the link below!"
-1. "Enjoy [special offer] until the end of the month"
 1. "🎉 Join us for [ special offer ] until the end of the month"
 1. " Join us for [ special offer ] until the end of the month"
 
 Signoff:
 
+1. "📲 text FARMERS10 to receive your coupon code!"
 1. "📲 [link]"
 1. "📲 Text RESERVE to book your table now!"
 1. "🍽️ text RESERVE to book your table now!"
 1. "text RESERVE to book your table now!"
 
-#### Campaign 2 Message
+#### Campaign Message
 
 ```text
-🍽️ Join us at The Farmer's Table in Newport: 
-Enjoy [special offer] when you reserve with the link below!
-📲 [link]
+🍽️ The Farmers Table Cafe has a surprise for you!
+Enjoy 10% off your next meal!
+📲 text DEAL to receive your coupon code
+```
+
+when the customer replies:
+
+```text
+Show this code to your server to redeem your discount!
+
+🐓FARMERS10🐓
+
+redeemable once, 
+not valid with other offers, 
+expires 4/01/2024
 ```
 
 ## Campaign 2 (promotional offer 1)
@@ -120,6 +133,7 @@ Offer:
 1. "for [promotional offer]"
 
 Signoff:
+
 1. " See you there!"
 1. "📲 Text RESERVE to book your table now!"
 1. "🍽️ text RESERVE to book your table now!"

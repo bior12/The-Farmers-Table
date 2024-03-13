@@ -1,7 +1,7 @@
 import os
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
-file_path = os.path.join(script_dir, 'csv/customer_list_1-1-23_to_10-1-23.csv')
+file_path = os.path.join(script_dir, 'csv/SMS_statistics_2024-03-11.csv')
 
 with open(file_path, 'r') as file:
     lines = file.readlines()
