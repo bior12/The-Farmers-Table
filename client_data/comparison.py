@@ -11,7 +11,8 @@ with open(file_path1, 'r') as file:
     for i, line in enumerate(lines[1:]):
         sent_names_list.append(line.split(',')[1].replace('"', ''))
 
-cong_list =[]
+cong_list: list[tuple[str, str]] = []
+
 
 with open(file_path2, 'r') as file:
     lines = file.readlines()
@@ -24,13 +25,21 @@ new_cong_list = []
 
 total = 0
 
+previous_emails = []
+previous_phone_numbers = []
+
 for name in cong_list:
     print(f"looking at {name[0]}")
     if name[0] in sent_names_list:
         print(name[0])
         total += 1
     else:
-        new_cong_list.append(name[1])
+        if name[1][2] not in previous_phone_numbers and name[1][3] not in previous_emails:
+            previous_phone_numbers.append(name[1][2])
+            previous_emails.append(name[1][3])
+            new_cong_list.append(name[1])
+        else:
+            print(f"Duplicate found: {name[0]}")
 
 print(total)
 print(new_cong_list)
